@@ -11,7 +11,7 @@ dependant on my other teammates code as well.
 - Implemented a manhattan distance code.
 
 ## Technologies
-- Java
+- C++
 
 ## Note
 This repository only contains my individual contribution to the project.
